@@ -1,0 +1,12 @@
+opencv-python==4.8.0.74
+ultralytics==8.0.161
+numpy==1.25.0
+torch==2.0.1
+#sort==0.0.6
+numpy>=1.21.0
+matplotlib>=3.4.0
+imutils>=0.5.4
+ultralytics>=8.0.0
+opencv-python>=4.5.0
+easyocr>=1.4.1
+translate>=3.6.1

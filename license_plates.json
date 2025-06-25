@@ -1,0 +1,47 @@
+[
+    {
+        "timestamp": "2025-01-08T00:04:36.667048",
+        "area_bangla": "ঢাকা মেট্রো-হ",
+        "area_english": "Dhaka Metro-H",
+        "number_bangla": "২২-৬৪৫৭",
+        "number_english": "22-6457",
+        "original_text": "ঢাকা শেদ্রেো ২২-৬৪৫৭",
+        "speed": 21.6
+    },
+    {
+        "timestamp": "2025-01-08T00:04:43.332583",
+        "area_bangla": "ঢাকা মেট্রো-হ",
+        "area_english": "Dhaka Metro-H",
+        "number_bangla": "২২-৬৪৫৭",
+        "number_english": "22-6457",
+        "original_text": "ঢাকা শেদরেো ২২-৬৪৫৭",
+        "speed": 0.0
+    },
+    {
+        "timestamp": "2025-01-08T00:04:49.663656",
+        "area_bangla": "ঢাকা মেট্রো-হ",
+        "area_english": "Dhaka Metro-H",
+        "number_bangla": "২২-৬৪৫৭",
+        "number_english": "22-6457",
+        "original_text": "ঢাকা মেদরেী ২২-৬৪৫৭",
+        "speed": 0.0
+    },
+    {
+        "timestamp": "2025-01-08T00:05:02.858829",
+        "area_bangla": "ঢাকা মেট্রো-হ",
+        "area_english": "Dhaka Metro-H",
+        "number_bangla": "২২-৬৪৫৭",
+        "number_english": "22-6457",
+        "original_text": "ঢাকা শেদ্রেো ২২-৬৪৫৭",
+        "speed": 0.0
+    },
+    {
+        "timestamp": "2025-01-08T00:05:09.317291",
+        "area_bangla": "ঢাকা মেট্রো-দ",
+        "area_english": "Dhaka Metro-D",
+        "number_bangla": "২২-৬৪৫৭",
+        "number_english": "22-6457",
+        "original_text": "ঢানা মেদ] ২২-৬৪৫৭",
+        "speed": 15.27
+    }
+]
